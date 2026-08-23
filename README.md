@@ -12,3 +12,7 @@ This program calculates a systems stress level using CPU temperature, CPU load, 
 ## Roadmap
 - Convert dashboard to Plotly for modern UI
 - Add auto-start background monitoring
+
+## License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software with proper attribution.
